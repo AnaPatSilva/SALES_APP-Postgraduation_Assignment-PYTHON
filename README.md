@@ -1,5 +1,6 @@
-# Sales_App-Python
 ![Image](https://github.com/AnaPatSilva/Sales_App-Python/blob/main/Captura%20de%20ecr%C3%A3%202023-11-21%20115257.jpg)
+# Sales App (Postgraduation Assignment)
+# PYTHON
 
 ## My Intro
 For the algorithm and programming in python module of my postgraduation I had to make an sales app in Python.
